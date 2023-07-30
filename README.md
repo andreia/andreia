@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-I love coding, creating, and learn new things.<br />
+I love coding, creating, and learning new things.<br />
 I'm full-stack web developer and enthusiastically contribute to and maintain several open-source projects.
 </p>
 
