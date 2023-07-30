@@ -23,5 +23,5 @@ I'm full-stack web developer and enthusiastically contribute to and maintain sev
 <p>
 You can reach me by email at andreiabohner on gmail.
 
-Come say hi 👋 also on [Twitter](https://twitter.com/andreiabohner), [Mastodon](https://mastodon.social/@andreiabohner), [My bog](https://andreia.github.io/), or [dev.to](https://dev.to/andreiabohner)
+Come say hi 👋 also on [Twitter](https://twitter.com/andreiabohner), [Mastodon](https://mastodon.social/@andreiabohner), [my blog](https://andreia.github.io/), or [dev.to](https://dev.to/andreiabohner)
 </p>  
